@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Landing Page",
+  "description": "Pixel-perfect, interactive recreation of the official WhatsApp landing page with rich sections, mockups, dark mode encryption showcase, interactive Web client preview, and responsive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
