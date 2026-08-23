@@ -4,7 +4,7 @@ module.exports = {
     {
       name: 'bibaho-ghor',
       script: '.next/standalone/server.js',
-      cwd: '/var/www/bibaho-ghor',
+      cwd: '/var/www/bibahohub_website',
 
       instances: 'max',   // one process per CPU core
       exec_mode: 'cluster',
